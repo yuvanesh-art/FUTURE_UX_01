@@ -85,16 +85,16 @@ https://www.figma.com/
 ## Screenshots
 
 ### Homepage
-(Add homepage screenshot here)
+<img width="940" height="467" alt="Homepage" src="https://github.com/user-attachments/assets/31a2fef0-5eb9-4db5-88b3-4f501073b679" />
 
 ### Services Page
-(Add services page screenshot here)
+<img width="943" height="466" alt="Service page" src="https://github.com/user-attachments/assets/5466c473-1344-47aa-9aaf-c7781fc2d1b6" />
 
 ### Contact Page
-(Add contact page screenshot here)
+<img width="940" height="460" alt="Contact page" src="https://github.com/user-attachments/assets/704dd251-33e5-49e2-a290-3c5726bd3a94" />
 
 ### Mobile Responsive Design
-(Add mobile screenshots here)
+<img width="940" height="460" alt="Contact page" src="https://github.com/user-attachments/assets/cc73ad42-2788-450c-8f72-b29194a79558" />
 
 ---
 
