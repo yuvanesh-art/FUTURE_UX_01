@@ -94,7 +94,7 @@ https://www.figma.com/
 <img width="940" height="460" alt="Contact page" src="https://github.com/user-attachments/assets/704dd251-33e5-49e2-a290-3c5726bd3a94" />
 
 ### Mobile Responsive Design
-<img width="940" height="460" alt="Contact page" src="https://github.com/user-attachments/assets/cc73ad42-2788-450c-8f72-b29194a79558" />
+<img width="153" height="350" alt="Mobile Homepage" src="https://github.com/user-attachments/assets/c1c05c50-4ba4-4b93-9d31-8fd1db98ec3c" />
 
 ---
 
