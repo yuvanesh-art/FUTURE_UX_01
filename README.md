@@ -74,11 +74,7 @@ The design was created using **Figma** with a glossy silver and pink aesthetic c
 ---
 
 ## Figma Link
-
-Paste your Figma project link here.
-
-Example:
-https://www.figma.com/
+https://www.figma.com/make/n4KxY0R4Gf32S3sQhhhHvQ/Untitled?t=A5CdA7VlYmVDkXLW-1
 
 ---
 
