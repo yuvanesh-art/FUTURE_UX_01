@@ -5,7 +5,7 @@ This project is a premium salon website redesign created for the Future Interns 
 
 The objective of this project was to design a modern, luxurious, and conversion-focused website for a salon business named **Hair Z**, located in **123, Indhranagar, Bengaluru**. The website focuses on user experience, trust-building, appointment booking, and responsive design.
 
-The design was created using **Figma** with a glossy silver and pink aesthetic combined with premium black-and-white salon imagery.
+The design was created using **Figma** with a aesthetic combined with premium black-and-white salon imagery.
 
 ---
 
