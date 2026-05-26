@@ -74,7 +74,7 @@ The design was created using **Figma** with a aesthetic combined with premium bl
 ---
 
 ## Figma Link
-https://www.figma.com/make/n4KxY0R4Gf32S3sQhhhHvQ/Untitled?t=A5CdA7VlYmVDkXLW-1
+https://hairzsalon.figma.site
 
 ---
 
